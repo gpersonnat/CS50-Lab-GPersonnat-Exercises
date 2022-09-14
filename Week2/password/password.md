@@ -25,7 +25,7 @@ the function should return ```true```. If not it should return ```false```.
 2. Click inside the terminal window and execute ```cd```.
 3. At the ```$``` prompt, type ```mkdir password```
 4. Now execute ```cd password```
-5. Then copy and paste wget https://cdn.cs50.net/2022/fall/labs/2/password.c into your terminal to download this lab’s distribution code.
+5. Then copy and paste ```wget https://cdn.cs50.net/2022/fall/labs/2/password.c``` into your terminal to download this lab’s distribution code.
 6. You are to complete the function, check, which returns true if the password passes all criteria, and false if it does not.
 
 ### Implementation Details

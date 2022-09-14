@@ -21,7 +21,7 @@ number of hours across a given number of days.
 2. Click inside the terminal window and execute ```cd```.
 3. At the ```$``` prompt, type ```mkdir hours```
 4. ```cd hours``` 
-5. Then copy and paste wget https://cdn.cs50.net/2022/fall/labs/2/hours.c into your terminal to download this lab’s distribution code.
+5. Then copy and paste ```wget https://cdn.cs50.net/2022/fall/labs/2/hours.c``` into your terminal to download this lab’s distribution code.
 6. You are to complete the function, ```calc_hours```, which calculates both total hours and average hours, depending on the value of ```output```.
 
 ### Implementation Details 

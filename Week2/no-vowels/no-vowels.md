@@ -27,8 +27,8 @@ the command line, to a corresponding word with numbers replacing vowels.
 1. Log into code.cs50.io using your GitHub account.
 2. Click inside the terminal window and execute ```cd```.
 3. At the ```$``` prompt, type ```mkdir no-vowels```
-4. Now execute ```cd no-vowels``
-5. Then copy and paste wget https://cdn.cs50.net/2022/fall/labs/2/no-vowels.c into your terminal to download this lab’s distribution code.
+4. Now execute ```cd no-vowels```
+5. Then copy and paste ```wget https://cdn.cs50.net/2022/fall/labs/2/no-vowels.c``` into your terminal to download this lab’s distribution code.
 
 ### Implementation Details 
 
